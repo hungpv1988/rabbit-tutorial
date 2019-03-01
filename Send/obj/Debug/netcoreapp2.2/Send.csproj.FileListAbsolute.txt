@@ -1,0 +1,11 @@
+D:\EPiServer\Projects\rabbit-tutorial\Send\obj\Debug\netcoreapp2.2\Send.csprojAssemblyReference.cache
+D:\EPiServer\Projects\rabbit-tutorial\Send\obj\Debug\netcoreapp2.2\Send.csproj.CoreCompileInputs.cache
+D:\EPiServer\Projects\rabbit-tutorial\Send\obj\Debug\netcoreapp2.2\Send.AssemblyInfoInputs.cache
+D:\EPiServer\Projects\rabbit-tutorial\Send\obj\Debug\netcoreapp2.2\Send.AssemblyInfo.cs
+D:\EPiServer\Projects\rabbit-tutorial\Send\bin\Debug\netcoreapp2.2\Send.deps.json
+D:\EPiServer\Projects\rabbit-tutorial\Send\bin\Debug\netcoreapp2.2\Send.runtimeconfig.json
+D:\EPiServer\Projects\rabbit-tutorial\Send\bin\Debug\netcoreapp2.2\Send.runtimeconfig.dev.json
+D:\EPiServer\Projects\rabbit-tutorial\Send\bin\Debug\netcoreapp2.2\Send.dll
+D:\EPiServer\Projects\rabbit-tutorial\Send\bin\Debug\netcoreapp2.2\Send.pdb
+D:\EPiServer\Projects\rabbit-tutorial\Send\obj\Debug\netcoreapp2.2\Send.dll
+D:\EPiServer\Projects\rabbit-tutorial\Send\obj\Debug\netcoreapp2.2\Send.pdb
