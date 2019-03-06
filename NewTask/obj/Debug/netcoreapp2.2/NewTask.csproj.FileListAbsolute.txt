@@ -1,4 +1,3 @@
-D:\EPiServer\Projects\rabbit-tutorial\NewTask\obj\Debug\netcoreapp2.2\NewTask.csprojAssemblyReference.cache
 D:\EPiServer\Projects\rabbit-tutorial\NewTask\obj\Debug\netcoreapp2.2\NewTask.csproj.CoreCompileInputs.cache
 D:\EPiServer\Projects\rabbit-tutorial\NewTask\obj\Debug\netcoreapp2.2\NewTask.AssemblyInfoInputs.cache
 D:\EPiServer\Projects\rabbit-tutorial\NewTask\obj\Debug\netcoreapp2.2\NewTask.AssemblyInfo.cs
@@ -9,3 +8,4 @@ D:\EPiServer\Projects\rabbit-tutorial\NewTask\bin\Debug\netcoreapp2.2\NewTask.dl
 D:\EPiServer\Projects\rabbit-tutorial\NewTask\bin\Debug\netcoreapp2.2\NewTask.pdb
 D:\EPiServer\Projects\rabbit-tutorial\NewTask\obj\Debug\netcoreapp2.2\NewTask.dll
 D:\EPiServer\Projects\rabbit-tutorial\NewTask\obj\Debug\netcoreapp2.2\NewTask.pdb
+D:\EPiServer\Projects\rabbit-tutorial\NewTask\obj\Debug\netcoreapp2.2\NewTask.csprojAssemblyReference.cache

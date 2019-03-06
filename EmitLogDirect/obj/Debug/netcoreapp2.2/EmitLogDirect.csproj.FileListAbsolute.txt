@@ -1,0 +1,11 @@
+D:\EPiServer\Projects\rabbit-tutorial\EmitLogDirect\bin\Debug\netcoreapp2.2\EmitLogDirect.deps.json
+D:\EPiServer\Projects\rabbit-tutorial\EmitLogDirect\bin\Debug\netcoreapp2.2\EmitLogDirect.runtimeconfig.json
+D:\EPiServer\Projects\rabbit-tutorial\EmitLogDirect\bin\Debug\netcoreapp2.2\EmitLogDirect.runtimeconfig.dev.json
+D:\EPiServer\Projects\rabbit-tutorial\EmitLogDirect\bin\Debug\netcoreapp2.2\EmitLogDirect.dll
+D:\EPiServer\Projects\rabbit-tutorial\EmitLogDirect\bin\Debug\netcoreapp2.2\EmitLogDirect.pdb
+D:\EPiServer\Projects\rabbit-tutorial\EmitLogDirect\obj\Debug\netcoreapp2.2\EmitLogDirect.csprojAssemblyReference.cache
+D:\EPiServer\Projects\rabbit-tutorial\EmitLogDirect\obj\Debug\netcoreapp2.2\EmitLogDirect.csproj.CoreCompileInputs.cache
+D:\EPiServer\Projects\rabbit-tutorial\EmitLogDirect\obj\Debug\netcoreapp2.2\EmitLogDirect.AssemblyInfoInputs.cache
+D:\EPiServer\Projects\rabbit-tutorial\EmitLogDirect\obj\Debug\netcoreapp2.2\EmitLogDirect.AssemblyInfo.cs
+D:\EPiServer\Projects\rabbit-tutorial\EmitLogDirect\obj\Debug\netcoreapp2.2\EmitLogDirect.dll
+D:\EPiServer\Projects\rabbit-tutorial\EmitLogDirect\obj\Debug\netcoreapp2.2\EmitLogDirect.pdb

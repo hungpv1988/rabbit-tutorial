@@ -31,7 +31,7 @@ namespace Worker
                     Console.WriteLine(" [x] Received {0}", message);
 
                     int dots = message.Split('.').Length - 1;
-                    Thread.Sleep(dots * 1000);
+                    Thread.Sleep(dots * 1000*10);
 
                     Console.WriteLine(" [x] Done");
 

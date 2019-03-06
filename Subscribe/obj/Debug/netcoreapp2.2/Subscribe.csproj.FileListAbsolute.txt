@@ -1,0 +1,11 @@
+D:\EPiServer\Projects\rabbit-tutorial\Subscribe\bin\Debug\netcoreapp2.2\Subscribe.deps.json
+D:\EPiServer\Projects\rabbit-tutorial\Subscribe\bin\Debug\netcoreapp2.2\Subscribe.runtimeconfig.json
+D:\EPiServer\Projects\rabbit-tutorial\Subscribe\bin\Debug\netcoreapp2.2\Subscribe.runtimeconfig.dev.json
+D:\EPiServer\Projects\rabbit-tutorial\Subscribe\bin\Debug\netcoreapp2.2\Subscribe.dll
+D:\EPiServer\Projects\rabbit-tutorial\Subscribe\bin\Debug\netcoreapp2.2\Subscribe.pdb
+D:\EPiServer\Projects\rabbit-tutorial\Subscribe\obj\Debug\netcoreapp2.2\Subscribe.csprojAssemblyReference.cache
+D:\EPiServer\Projects\rabbit-tutorial\Subscribe\obj\Debug\netcoreapp2.2\Subscribe.csproj.CoreCompileInputs.cache
+D:\EPiServer\Projects\rabbit-tutorial\Subscribe\obj\Debug\netcoreapp2.2\Subscribe.AssemblyInfoInputs.cache
+D:\EPiServer\Projects\rabbit-tutorial\Subscribe\obj\Debug\netcoreapp2.2\Subscribe.AssemblyInfo.cs
+D:\EPiServer\Projects\rabbit-tutorial\Subscribe\obj\Debug\netcoreapp2.2\Subscribe.dll
+D:\EPiServer\Projects\rabbit-tutorial\Subscribe\obj\Debug\netcoreapp2.2\Subscribe.pdb

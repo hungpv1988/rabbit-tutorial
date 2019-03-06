@@ -1,0 +1,11 @@
+D:\EPiServer\Projects\rabbit-tutorial\ReceiveLogsDirect\obj\Debug\netcoreapp2.2\ReceiveLogsDirect.csprojAssemblyReference.cache
+D:\EPiServer\Projects\rabbit-tutorial\ReceiveLogsDirect\obj\Debug\netcoreapp2.2\ReceiveLogsDirect.csproj.CoreCompileInputs.cache
+D:\EPiServer\Projects\rabbit-tutorial\ReceiveLogsDirect\obj\Debug\netcoreapp2.2\ReceiveLogsDirect.AssemblyInfoInputs.cache
+D:\EPiServer\Projects\rabbit-tutorial\ReceiveLogsDirect\obj\Debug\netcoreapp2.2\ReceiveLogsDirect.AssemblyInfo.cs
+D:\EPiServer\Projects\rabbit-tutorial\ReceiveLogsDirect\bin\Debug\netcoreapp2.2\ReceiveLogsDirect.deps.json
+D:\EPiServer\Projects\rabbit-tutorial\ReceiveLogsDirect\bin\Debug\netcoreapp2.2\ReceiveLogsDirect.runtimeconfig.json
+D:\EPiServer\Projects\rabbit-tutorial\ReceiveLogsDirect\bin\Debug\netcoreapp2.2\ReceiveLogsDirect.runtimeconfig.dev.json
+D:\EPiServer\Projects\rabbit-tutorial\ReceiveLogsDirect\bin\Debug\netcoreapp2.2\ReceiveLogsDirect.dll
+D:\EPiServer\Projects\rabbit-tutorial\ReceiveLogsDirect\bin\Debug\netcoreapp2.2\ReceiveLogsDirect.pdb
+D:\EPiServer\Projects\rabbit-tutorial\ReceiveLogsDirect\obj\Debug\netcoreapp2.2\ReceiveLogsDirect.dll
+D:\EPiServer\Projects\rabbit-tutorial\ReceiveLogsDirect\obj\Debug\netcoreapp2.2\ReceiveLogsDirect.pdb

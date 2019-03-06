@@ -1,4 +1,3 @@
-D:\EPiServer\Projects\rabbit-tutorial\Worker\obj\Debug\netcoreapp2.2\Worker.csprojAssemblyReference.cache
 D:\EPiServer\Projects\rabbit-tutorial\Worker\obj\Debug\netcoreapp2.2\Worker.csproj.CoreCompileInputs.cache
 D:\EPiServer\Projects\rabbit-tutorial\Worker\obj\Debug\netcoreapp2.2\Worker.AssemblyInfoInputs.cache
 D:\EPiServer\Projects\rabbit-tutorial\Worker\obj\Debug\netcoreapp2.2\Worker.AssemblyInfo.cs
@@ -9,3 +8,4 @@ D:\EPiServer\Projects\rabbit-tutorial\Worker\bin\Debug\netcoreapp2.2\Worker.dll
 D:\EPiServer\Projects\rabbit-tutorial\Worker\bin\Debug\netcoreapp2.2\Worker.pdb
 D:\EPiServer\Projects\rabbit-tutorial\Worker\obj\Debug\netcoreapp2.2\Worker.dll
 D:\EPiServer\Projects\rabbit-tutorial\Worker\obj\Debug\netcoreapp2.2\Worker.pdb
+D:\EPiServer\Projects\rabbit-tutorial\Worker\obj\Debug\netcoreapp2.2\Worker.csprojResolveAssemblyReference.cache
