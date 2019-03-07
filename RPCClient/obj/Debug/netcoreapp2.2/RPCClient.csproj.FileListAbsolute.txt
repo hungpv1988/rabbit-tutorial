@@ -1,0 +1,11 @@
+D:\EPiServer\Projects\rabbit-tutorial\RPCClient\bin\Debug\netcoreapp2.2\RPCClient.deps.json
+D:\EPiServer\Projects\rabbit-tutorial\RPCClient\bin\Debug\netcoreapp2.2\RPCClient.runtimeconfig.json
+D:\EPiServer\Projects\rabbit-tutorial\RPCClient\bin\Debug\netcoreapp2.2\RPCClient.runtimeconfig.dev.json
+D:\EPiServer\Projects\rabbit-tutorial\RPCClient\bin\Debug\netcoreapp2.2\RPCClient.dll
+D:\EPiServer\Projects\rabbit-tutorial\RPCClient\bin\Debug\netcoreapp2.2\RPCClient.pdb
+D:\EPiServer\Projects\rabbit-tutorial\RPCClient\obj\Debug\netcoreapp2.2\RPCClient.csprojAssemblyReference.cache
+D:\EPiServer\Projects\rabbit-tutorial\RPCClient\obj\Debug\netcoreapp2.2\RPCClient.csproj.CoreCompileInputs.cache
+D:\EPiServer\Projects\rabbit-tutorial\RPCClient\obj\Debug\netcoreapp2.2\RPCClient.AssemblyInfoInputs.cache
+D:\EPiServer\Projects\rabbit-tutorial\RPCClient\obj\Debug\netcoreapp2.2\RPCClient.AssemblyInfo.cs
+D:\EPiServer\Projects\rabbit-tutorial\RPCClient\obj\Debug\netcoreapp2.2\RPCClient.dll
+D:\EPiServer\Projects\rabbit-tutorial\RPCClient\obj\Debug\netcoreapp2.2\RPCClient.pdb
